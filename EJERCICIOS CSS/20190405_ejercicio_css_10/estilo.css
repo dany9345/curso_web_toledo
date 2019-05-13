@@ -1,0 +1,24 @@
+h1 {
+    text-align: right;
+    color: blue;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+h2 {
+    color: white;
+    background-color: green;
+}
+#fiore  {
+    float: left;
+}
+#fioreimg {
+    float: left;
+    height: 130px;
+}
+#santacroceimg {
+    height: 130px;
+}
+#novellaimg {
+    float: right;
+    height: 130px;
+}

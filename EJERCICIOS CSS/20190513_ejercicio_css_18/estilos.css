@@ -1,0 +1,60 @@
+body {
+    background-color: gray;
+}
+#titulo {
+    text-align: center;
+    width: 100%;
+}
+#cuadro1 {
+    border: solid black 1px;
+    background-color: orange;
+    text-align: center;
+    width: auto;
+    height: 150px;
+    margin: 50px;
+}
+#cuadro2 {
+    margin: 25px;
+    margin-bottom: 100px;
+}
+#cuadroamarillo {
+    background-color: yellow;
+    height: 0;
+    padding-bottom: 35%;
+    width: 35%;
+    float: left;
+}
+#cuadroazul {
+    background-color: aqua;
+    height: 0;
+    padding-bottom: 35%;
+    width: 35%;
+    float: right;
+    text-align: right;
+}
+#cuadroverde {
+    background-color: green;
+    height: 0;
+    padding-bottom: 35%;
+    width: 35%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 30%;
+}
+#cuadroblanco {
+    background-color: white;
+    height: 0;
+    padding-bottom: 35%;
+    width: 35%;
+    float: left;
+    margin-top: 10%;
+}
+#cuadrorosa {
+    background-color: palevioletred;
+    height: 0;
+    padding-bottom: 35%;
+    width: 35%;
+    float: right;
+    margin-top: 10%;
+    text-align: right;
+}

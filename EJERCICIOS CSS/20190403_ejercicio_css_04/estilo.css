@@ -1,0 +1,19 @@
+body {
+    background-color: green;
+}
+p {
+    font: bold;
+}
+#cursiva {
+    color: white;
+    font-style: italic;
+}
+#amarillo {
+    color: yellow;
+}
+#naranja {
+    color: orange;
+}
+#rosa {
+    color: purple;
+}

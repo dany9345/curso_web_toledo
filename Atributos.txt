@@ -1,0 +1,9 @@
+Negrita: <b>
+Cursiva: <i>
+Teletype: <tt>
+Subrayado: <u>
+Tachado: <s>
+Parpadeo: <blink> (No funciona)
+Superindice: <sup>
+Subindice: <sub>
+Centrado: <center>

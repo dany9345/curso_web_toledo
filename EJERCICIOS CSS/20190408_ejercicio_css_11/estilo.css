@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "sigmar-one";
+    src: url("fuentes/sigmar-one.woff");
+}
+body {
+    background-color: aqua;
+}
+h1 {
+    color: black;
+    font-family: "sigmar-one";
+}
+#span1 {
+    color: red;
+    background-color: white
+}
+#span2 {
+    color: blue;
+}
+h2 {
+    font-family: "sigmar-one";
+    color: darkblue;
+}
+#linea {
+    height: 10px;
+    background-color: darkblue;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    width: 75%;
+    clear: both;
+}
+#imgyorkshire {
+    float: left;
+    border: solid 2px darkblue;
+}
+#imgdogo {
+    float: right;
+}
+#imgratonero {
+    text-align: center;
+    border-left: 50%;
+}
+#textoizquierda {
+    float: left;
+    width: 40%;
+}
+#textoderecha {
+    float: right;
+    width: 40%;
+}
+#wiki {
+    text-align: right;
+}

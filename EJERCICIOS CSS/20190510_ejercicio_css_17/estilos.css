@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+}
+#cuadrados {
+    width: 60%;
+    background-color: white;
+    border: solid 1px;
+    margin-bottom: 10px;
+    padding: 5px; 
+}
+#tabla1 {
+    border-bottom: solid rgb(182, 182, 182) 1px;
+    margin: auto;
+}
+#tabla2 {
+    margin: auto;
+    border-left: solid  rgb(182, 182, 182) 1px;
+    border-right: solid  rgb(182, 182, 182) 1px;
+}
+#febrero {
+    text-align: right;
+}
+#tabla3 {
+    margin: auto;
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+#tabla3 td, #tabla3 th {
+    border: solid black 1px;
+}
+#marzo {
+    text-align: left;
+}

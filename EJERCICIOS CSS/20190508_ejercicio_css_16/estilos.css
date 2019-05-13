@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "playball";
+    src: url("playball.woff");
+}
+html  {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    border-top: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+body {
+    font-family: "playball";
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-color: bisque;
+}
+#header {
+    color: white;
+    background-color: orangered;
+}
+#titulo {
+    color: white;
+    background-color: orangered;
+    padding: 5px;
+}
+#bloque2 {
+    background-color: white;
+    padding: 10px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#divimagen {
+    padding-left: 20px;
+    margin-left: 20px;
+    border-left: solid 2px orangered; 
+    height: auto;
+    float: right;
+    text-align: center;
+}
+#imagen { 
+    width: 115px;
+}
+#footer {
+    color: white;
+    background-color: orangered;
+    margin-top: -10px;
+    border-top: 0px;
+}
+#cuerpo {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10px;
+}
+#wikipedia {
+    height: 20px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+#enlace {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+h1 {
+    display: inline;
+    font-size: 25px;
+}
+#bloque3 {
+    background-color: white;
+    padding: 10px;
+    height: 360px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+    font-family: sans-serif;
+    text-align: justify;
+}
+p  {
+    text-indent: 50px;
+}
+strong {
+    color: orange;
+}
+em {
+    color: green;
+    background-color: white;
+}
+time {
+    color: orange;
+}
