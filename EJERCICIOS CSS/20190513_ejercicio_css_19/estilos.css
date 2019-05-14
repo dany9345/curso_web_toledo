@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(170, 170, 170);
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+html {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+#titulo {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+#columnaizq {
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 3%;
+    width: 38%;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#columnader {
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 5%;
+    width: 38%;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#titulo2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#cuadros {
+    border-radius: 0px 0px 10px 10px;
+    -moz-border-radius: 0px 0px 10px 10px;
+    -webkit-border-radius: 0px 0px 10px 10px;
+    border: 0px solid #000000;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+}
+#titulocuadros {
+    border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    border: 0px solid #000000;
+    background-color: green;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    padding: 1%;
+    color: white;
+}
