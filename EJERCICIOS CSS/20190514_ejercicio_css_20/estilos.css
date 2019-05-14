@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+#titulo {
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    margin: 0px;
+}
+h1 {
+    margin: 0px;
+}
+#cuadros {
+    border: black 1px dashed;
+    width: 25%;
+    margin-top: 2%;
+    margin-left: 2%;
+    float: left;
+    height: 0;
+    padding-bottom: 25%;
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 1.5vw;
+    background-color: rgb(0, 151, 151);
+}
+#cuadros:first-letter {
+    font-size: 300%;
+    line-height: 0.5;
+    float: left;
+}
