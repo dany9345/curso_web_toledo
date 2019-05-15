@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(170, 170, 170);
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+html {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+#titulo {
+    background-color: black;
+    color: white;
+}
+#titulo2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#cuadros {
+    border-radius: 0px 0px 10px 10px;
+    -moz-border-radius: 0px 0px 10px 10px;
+    -webkit-border-radius: 0px 0px 10px 10px;
+    border: 0px solid #000000;
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 0.5%;
+}
+#titulocuadros {
+    border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    border: 0px solid #000000;
+    background-color: green;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1%;
+    padding-left: 1%;
+    color: white;
+}
