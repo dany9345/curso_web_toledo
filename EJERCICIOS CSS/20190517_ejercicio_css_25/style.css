@@ -1,0 +1,126 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-p8na1r');
+	src:url('fonts/icomoon.eot?#iefix-p8na1r') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-p8na1r') format('woff'),
+		url('fonts/icomoon.ttf?-p8na1r') format('truetype'),
+		url('fonts/icomoon.svg?-p8na1r#icomoon') format('svg'),
+		url('menu.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+	content: "\e900";
+}
+.icon-pencil:before {
+	content: "\e905";
+}
+.icon-file-text:before {
+	content: "\e922";
+}
+.icon-search:before {
+	content: "\e986";
+}
+.icon-switch:before {
+	content: "\e9b6";
+}
+.icon-plus:before {
+	content: "\ea0a";
+}
+.icon-minus:before {
+	content: "\ea0b";
+}
+body {
+	background-color: rgb(177, 177, 177);
+}
+#lista1 {
+	border: violet 5px dashed;
+	background-color: rgb(113, 212, 113);
+	width: 15%;
+	margin: 1%;
+	text-align: center;
+	float: left;
+	padding: 0.3%;
+}
+#lista2 {
+	border-right: 2px black solid;
+	border-bottom: 2px black solid;
+	background-color: white;
+	width: auto;
+	margin: 1%;
+	text-align: center;
+	float: left;
+	padding: 0.3%;
+}
+#contenedorlista2 {
+	margin-left: 25%;
+}
+h2 {
+	clear: both;
+}
+#lista3 {
+	border: 1px black solid;
+	background-color: white;
+	width: auto;
+	margin: 1%;
+	text-align: center;
+	padding: 1%;
+	margin-bottom: 5%;
+}
+#contenedorlista3 {
+	border: 1px solid black;
+	width: 10%;
+	padding: 1%;
+}
+#lista4a {
+	background-color: white;
+	color: blue;
+	width: 12%;
+	margin: 0.1%;
+	text-align: center;
+	float: left;
+	padding: 0.3%;
+}
+#lista4b {
+	background-color: blue;
+	color: white;
+	width: 12%;
+	margin: 0.1%;
+	text-align: center;
+	float: left;
+	padding: 0.3%;
+}
+#contenedorlista4 {
+	margin-left: 20%;
+}
+#lista5 {
+	margin: 1%;
+	float: left;
+}
+#lista6 {
+	padding: 1%;
+	border: black 2px solid;
+	background-color: white;
+	border-radius: 5px;
+	margin: 1%;
+	width: 1.7%;
+	float: left;
+}
+#contenedorlista6 {
+	margin-left: 30%;
+}
